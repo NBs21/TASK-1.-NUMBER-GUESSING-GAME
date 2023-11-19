@@ -1,10 +1,8 @@
-#-----------------------------
 # Name:        NUMBER-GUESSING-GAME
 # Purpose:     Cod Soft TASK-1 (C++)
 # Create a program that generates a random number and asks the user to guess it. Provide feedback on whether the guess is too high or too low until the user guesses the correct number.
 # Author:      NURFUL SHAIKH
 # Created:     11-11-2023
-#-----------------------------
 
 #include <iostream>
 #include <cstdlib>
